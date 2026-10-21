@@ -1,0 +1,7 @@
+mcp
+arxiv
+httpx
+sentence-transformers
+pymupdf4llm
+openai
+python-dotenv
