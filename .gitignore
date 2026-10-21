@@ -1,0 +1,42 @@
+# ===== 虚拟环境 =====
+venv/
+.venv/
+env/
+
+# ===== IDE 配置 =====
+.idea/
+.vscode/
+*.swp
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ===== 敏感信息（必须忽略！）=====
+.env
+.env.local
+*.key
+
+# ===== 运行时产生的文件 =====
+server.log
+reports/
+pdfs/
+models/
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+
+# ===== MCP Inspector 会话 =====
+.mcp-inspector/
+
+
+.env
+paper agent暂存.txt
+pip镜像源技巧.txt
+test_sources.py
+Temp/
+main_agent.py.old
+
